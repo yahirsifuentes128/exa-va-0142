@@ -110,3 +110,5 @@ print("Presiona una tecla en las ventanas para finalizar.")
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+print("programa realizado por yahir sifuentes NC = 0142 ")
